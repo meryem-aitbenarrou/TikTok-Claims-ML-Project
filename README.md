@@ -19,7 +19,7 @@ This project simulates a real-world scenario faced by TikTok, where a growing vo
 - **Communication:** Delivered an executive summary to stakeholders.
 
 ## Project Steps:
-1. **[Project Proposal](https://docs.google.com/document/d/1CWzDRu6KWCmuuZJxfii0Y5o9DrVspr_DHbEchIzs6e8/edit?usp=sharing):** Created a proposal outlining the project plan and milestones.
+1. **[Project Proposal](TikTok%20project%20proposal.docx):** Created a proposal outlining the project plan and milestones.
 2. **Data Wrangling:**
    - Built a pandas DataFrame for the provided CSV dataset.
    - Cleaned and manipulated the data using Python libraries.
@@ -27,9 +27,9 @@ This project simulates a real-world scenario faced by TikTok, where a growing vo
    - Visualized the data using Python libraries (e.g., Matplotlib, Seaborn).
 
 ### Resources:
-- [Jupyter notebook](https://drive.google.com/file/d/1Lk53fSAiAViQwFpnquu0yxEjNqh6wgdr/view?usp=sharing)
-- [Dataset (CSV)](https://drive.google.com/file/d/1I62n4vHPMV0YRfz-sFVeXnLV_ZN27N39/view?usp=sharing)
+- [Jupyter notebook](Course%202%20TikTok%20project%20lab.ipynb)
+- [Dataset (CSV)](tiktok_dataset.csv)
 
-3. **Communication:** Delivered an [executive summary](https://docs.google.com/presentation/d/1WLPVGNi-g-G0o1BE1lI0RWJd4-nM9JVb1EQ-RNx0EbY/edit?usp=sharing) to simulate communication with stakeholders.
+3. **Communication:** Delivered an [executive summary](TikTok%20Course%202%20executive%20summary.pptx) to simulate communication with stakeholders.
 
 *This document will be updated throughout the course as I learn more.*

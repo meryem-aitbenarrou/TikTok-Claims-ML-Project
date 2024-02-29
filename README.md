@@ -27,7 +27,7 @@ This project simulates a real-world scenario faced by TikTok, where a growing vo
    - Visualized the data using Python libraries (e.g., Matplotlib, Seaborn).
 
 ### Resources:
-- [Jupyter notebook](Course%202%20TikTok%20project%20lab.ipynb)
+- [Jupyter notebook](Activity_Course%202%20TikTok%20project%20lab.ipynb)
 - [Dataset (CSV)](tiktok_dataset.csv)
 
 3. **Communication:** Delivered an [executive summary](TikTok%20Course%202%20executive%20summary.pptx) to simulate communication with stakeholders.

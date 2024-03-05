@@ -31,5 +31,18 @@ This project simulates a real-world scenario faced by TikTok, where a growing vo
 - [Dataset (CSV)](tiktok_dataset.csv)
 
 3. **Communication:** Delivered an [executive summary](TikTok%20Course%202%20executive%20summary.pptx) to simulate communication with stakeholders.
+4. **EDA and visualizations:**
+   - **Exploratory Data Analysis (EDA):**
+     - Conducted EDA on data for the claims classification project.
+   - **Data Visualizations:**
+     - Created data visualizations using Tableau.
+   - **Summary of EDA Results:**
+     - Provided a summary of the results of exploratory data analysis.
 
-*This document will be updated throughout the course as I learn more.*
+### Resources:
+
+- [Jupyter notebook](Course%203%20TikTok%20project%20lab.ipynb)
+- [Tableau dashboard](TikTok%20End%20of%20Course%20Project%20-%20Course%203.twbx)
+- [Executive summary](TikTok%20Course%203%20executive%20summary.pptx)
+
+This document will be updated throughout the course as I learn more.

@@ -54,7 +54,7 @@ This project simulates a real-world scenario faced by TikTok, where a growing vo
    - Stated the statistical test results clearly.
    - Identified recommended next steps in order to build a predictive model.
    - **Resources:**
-     - [Jupyter notebook](Exemplar_Course%204%20TikTok%20project%20lab.ipynb)
+     - [Jupyter notebook](Course%204%20TikTok%20project%20lab.ipynb)
      - [Executive summary](TikTok%20Course%204%20executive%20summary.pptx)
 
 This document will be updated throughout the course as I learn more.

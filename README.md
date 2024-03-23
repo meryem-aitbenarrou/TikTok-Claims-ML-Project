@@ -21,7 +21,7 @@ This project simulates a real-world scenario faced by TikTok, where a growing vo
 ## Project Steps
 
 1. **Course 1: Project Proposal**
-   - Created a [proposal](TikTok%20project%20proposal.docx) outlining the project plan and milestones.
+   - Created a [proposal](TikTok%20Course%201%20project%20proposal.pdf) outlining the project plan and milestones.
 
 2. **Course 2: Data Wrangling**
    - Built a pandas DataFrame for the provided CSV dataset.
@@ -30,9 +30,9 @@ This project simulates a real-world scenario faced by TikTok, where a growing vo
    - Visualized the data using Python libraries (e.g., Matplotlib, Seaborn).
    - Delivered an executive summary to simulate communication with stakeholders.
    - **Resources:**
-     - [Jupyter notebook](Activity_Course%202%20TikTok%20project%20lab.ipynb)
+     - [Jupyter notebook](Course%202%20TikTok%20project%20lab.ipynb)
      - [Dataset (CSV)](tiktok_dataset.csv)
-     - [Executive summary](TikTok%20Course%202%20executive%20summary.pptx)
+     - [Executive summary](TikTok%20Course%202%20executive%20summary.pdf)
    
 3. **Course 3: EDA and Visualizations**
    - **Exploratory Data Analysis (EDA):**
@@ -43,8 +43,8 @@ This project simulates a real-world scenario faced by TikTok, where a growing vo
      Provided a summary of the results of exploratory data analysis.
    - **Resources:**
      - [Jupyter notebook](Course%203%20TikTok%20project%20lab.ipynb)
-     - [Tableau dashboard](TikTok%20End%20of%20Course%20Project%20-%20Course%203.twbx)
-     - [Executive summary](TikTok%20Course%203%20executive%20summary.pptx)
+     - [Tableau dashboard](Course%203%20TikTok%20project%20Tableau%20Dashboard.twbx)
+     - [Executive summary](TikTok%20Course%203%20executive%20summary.pdf)
      
 4. **Course 4: Updates**
    **Course 4 TikTok Project Lab:**
@@ -55,6 +55,18 @@ This project simulates a real-world scenario faced by TikTok, where a growing vo
    - Identified recommended next steps in order to build a predictive model.
    - **Resources:**
      - [Jupyter notebook](Course%204%20TikTok%20project%20lab.ipynb)
-     - [Executive summary](TikTok%20Course%204%20executive%20summary.pptx)
+     - [Executive summary](TikTok%20Course%204%20executive%20summary.pdf)
+
+5. **Course 5: Build Regression Model**
+   -Imported relevant packages and TikTok data.
+   -Checked model assumptions.
+   -Determined the correct modeling approach.
+   -Built a binomial logistic regression model.
+   -Evaluated the model.
+   -Shared an executive summary with the TikTok team.
+   - **Resources:**
+     - [Jupyter notebook](Course%205%20TikTok%20project%20lab.ipynb)
+     - [Executive summary](TikTok%20Course%205%20executive%20summary.pdf)
+
 
 This document will be updated throughout the course as I learn more.

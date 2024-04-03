@@ -51,12 +51,10 @@ This project simulates a real-world scenario faced by TikTok, where a growing vo
      - [Tableau dashboard](Course%203%20TikTok%20project%20Tableau%20Dashboard.twbx)
      - [Executive summary](TikTok%20Course%203%20executive%20summary.pdf)
      
-4. **Course 4: Updates**
+4. **Course 4: Statistical Analysis**
    
-   **Course 4 TikTok Project Lab:**
    - Computed descriptive statistics.
    - Conducted a hypothesis test.
-   **Course 4 Executive Summary:**
    - Stated the statistical test results clearly.
    - Identified recommended next steps in order to build a predictive model.
 
@@ -77,5 +75,16 @@ This project simulates a real-world scenario faced by TikTok, where a growing vo
    **Resources:**
    - [Jupyter Notebook](Course%205%20TikTok%20project%20lab.ipynb)
    - [Executive Summary PDF](TikTok%20Course%205%20executive%20summary.pdf)
+  
+6. **Course 6: Machine Learning Model Building**
 
-This document will be updated throughout the course as I learn more.
+   - Imported relevant packages and TikTok data
+   - Feature engineering
+   - Checked model assumptions 
+   - Built the machine learning model
+   - Evaluated the model
+   - Delivered an executive summary to the TikTok team.
+  
+   **Resources:**
+   - [Jupyter Notebook](Course%206%20TikTok%20project%20lab.ipynb)
+   - [Executive Summary PDF](TikTok%20Course%206%20executive%20summary.pdf)
